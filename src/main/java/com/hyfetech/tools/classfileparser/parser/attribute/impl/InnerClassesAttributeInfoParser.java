@@ -2,7 +2,6 @@ package com.hyfetech.tools.classfileparser.parser.attribute.impl;
 
 import com.hyfetech.tools.classfileparser.dto.AttributeInfo;
 import com.hyfetech.tools.classfileparser.parser.attribute.AbstractAttributeInfoParser;
-import com.hyfetech.tools.classfileparser.parser.attribute.IAttributeInfoParser;
 import com.hyfetech.tools.classfileparser.utils.AccessFlagUtil;
 import com.hyfetech.tools.classfileparser.utils.ReadClassFileUtil;
 
